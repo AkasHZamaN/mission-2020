@@ -97,6 +97,7 @@ h1 span{
 }
 .development-area .dev-box{
     display: flex;
+    margin-left: 10px;
     align-items: center;
     background-image: url(images/pictures/shape-1.png);
     background-position: 5px 50px;
